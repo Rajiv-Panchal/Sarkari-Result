@@ -1,7 +1,6 @@
 .header {
     border: 1px solid rgb(0, 0, 0);
     background-color: #ab183d;
-
     width: 1010px;
     height: 200px;
     display: flex;
@@ -255,6 +254,7 @@ color: #df8805;
     border: 2px solid#df8805;
      margin-left: 5px;
     } */
+   
     .con1{
     /* border: 2px solid#df8805; */
 
@@ -266,6 +266,7 @@ color: #df8805;
     /* border: 2px solid #ab183d; */
     height: 40px;
     line-height: 1.0px;
+    
     }
     .con2{
     background-color: #ab183d;
